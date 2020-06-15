@@ -1,4 +1,4 @@
-permalink: /index.html
+permalink: src/index.php
 
 Gabriel Aquende and Vishal Shah
 IS 218 - First Project
