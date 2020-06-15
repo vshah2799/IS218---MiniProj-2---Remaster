@@ -1,0 +1,13 @@
+{
+    "name": "gabe3/is218practice",
+    "require": {
+        "ext-pdo": "*",
+        "ext-mysqli": "*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/",
+            "data/"
+        ]
+    }
+}
